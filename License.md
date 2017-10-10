@@ -1,7 +1,7 @@
 Data of Inherited Glyphs from I.Font Project is licensed under the
 Apache License 2.0 and GNU General Public License 3.0.
 
-=========================================================================
+--------------------------------------------------------------------------
 
 Copyright I.Font Project (https://github.com/ichitenfont)
 
@@ -17,7 +17,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-=========================================================================
+--------------------------------------------------------------------------
 
 Copyright (C) 2017 I.Font Project (https://github.com/ichitenfont)
 
