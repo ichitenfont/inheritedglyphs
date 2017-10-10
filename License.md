@@ -3,7 +3,7 @@ Apache License 2.0 and GNU General Public License 3.0.
 
 =========================================================================
 
-Copyright [ I.Font Project (https://github.com/ichitenfont) ]
+Copyright I.Font Project (https://github.com/ichitenfont)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
