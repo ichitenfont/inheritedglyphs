@@ -1,5 +1,5 @@
 Data of Inherited Glyphs from I.Font Project is licensed under the
-Apache License 2.0 and GNU General Public License 3.0.
+Apache License 2.0 or GNU General Public License 3.0.
 
 --------------------------------------------------------------------------
 
