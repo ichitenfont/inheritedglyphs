@@ -1,7 +1,9 @@
 Data of Inherited Glyphs from I.Font Project is licensed under the
-Apache License 2.0, GNU General Public License 3.0 or CC BY 4.0.
+Apache License 2.0, GNU General Public License 3.0, MIT License or CC BY 4.0.
 
 --------------------------------------------------------------------------
+
+# Apache License 2.0
 
 Copyright I.Font Project (https://github.com/ichitenfont)
 
@@ -19,6 +21,8 @@ limitations under the License.
 
 --------------------------------------------------------------------------
 
+# GNU General Public License 3.0
+
 Copyright (C) 2017 I.Font Project (https://github.com/ichitenfont)
 
 This program is free software: you can redistribute it and/or modify
@@ -35,6 +39,32 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 --------------------------------------------------------------------------
+
+# MIT License
+
+Copyright (c) 2017 I.Font Project (https://github.com/ichitenfont)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------
+
+# CC BY 4.0
 
 Attribution 4.0 International (CC BY 4.0)
 
