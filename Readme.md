@@ -38,4 +38,4 @@
 ### 主要貢獻者
 
 * 主編撰：[內木一郎](https://github.com/SyaoranHinata)
-* 編務協助：[陳輝恒](https://github.com/hfhchan)、李爾樅、鍾啟堯、佟藍歌
+* 編務協助：[陳輝恒](https://github.com/hfhchan)、[李爾樅](https://github.com/Zonz-Ly)、鍾啟堯、[佟藍歌](https://github.com/aikahiiragi)
