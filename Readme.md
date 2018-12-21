@@ -23,7 +23,7 @@
 * 主編撰：[內木一郎](https://github.com/SyaoranHinata)
 * 聯合編撰：[陳輝恒](https://github.com/hfhchan)、[李爾樅](https://github.com/Zonz-Ly)、鍾啟堯
 * 編務協助：陳志泓、[佟藍歌](https://github.com/aikahiiragi)
-* 其他協助：李任之、[趙瑾昀](https://github.com/kunki)、[Extc](https://github.com/extc)
+* 其他協助：李任之、[Extc](https://github.com/extc)、陳柏逸、蓋艾倫
 
 ## 傳承字形筆畫表
 
