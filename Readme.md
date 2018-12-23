@@ -25,6 +25,9 @@
 * 編務協助：陳志泓、[佟藍歌](https://github.com/aikahiiragi)
 * 其他協助：李任之、[Extc](https://github.com/extc)、陳柏逸、蓋艾倫
 
+### 授權條款
+* 本作品以[共享創意-署名 4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
+
 ## 傳承字形筆畫表
 
 編撰《傳承字形部件檢校表》時，經常要說明哪裏應作甚麼筆畫，不應作甚麼筆畫。可是，目前漢字文字學界對筆畫的叫法尚未統一，而且各套有官方色彩的所謂「標準」叫法，皆有一定問題。因此，編訂該表時，我們還要釐定筆畫叫法，甚至連傳承字形不使用的筆畫也要一併定好。
@@ -39,3 +42,6 @@
 
 * 主編撰：[內木一郎](https://github.com/SyaoranHinata)
 * 編務協助：[陳輝恒](https://github.com/hfhchan)、[李爾樅](https://github.com/Zonz-Ly)、鍾啟堯、[佟藍歌](https://github.com/aikahiiragi)
+
+### 授權條款
+* 本作品以[共享創意-署名 4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
