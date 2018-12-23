@@ -1,4 +1,4 @@
-# Inherited Glyphs ( 傳承字形 )
+# 傳承字形 (Inherited Glyphs) 標準化文件
 
 ## 說明
 
