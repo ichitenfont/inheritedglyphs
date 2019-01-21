@@ -22,7 +22,7 @@
 
 * 主編撰：[內木一郎](https://github.com/SyaoranHinata)
 * 聯合編撰：[陳輝恒](https://github.com/hfhchan)、[李爾樅](https://github.com/Zonz-Ly)、鍾啟堯
-* 編務協助：陳志泓、[佟藍歌](https://github.com/aikahiiragi)
+* 編務協助：陳志泓、[佟藍歌](https://github.com/aikahiiragi)、伍梓豪
 * 其他協助：李任之、[Extc](https://github.com/extc)、陳柏逸、蓋艾倫
 
 ### 授權條款
