@@ -46,9 +46,9 @@
 
 ### 目前檔案
 
-* [checklist_of_inheritedglyphs_recom-1.00.pdf](checklist_of_inheritedglyphs_recom-1.00.pdf)
-* 版本：1.00
-* 日期：2019年7月18日
+* [checklist_of_inheritedglyphs_recom-1.01.pdf](checklist_of_inheritedglyphs_recom-1.01.pdf)
+* 版本：1.01
+* 日期：2019年10月14日
 
 ### 主要貢獻者
 
