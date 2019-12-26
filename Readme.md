@@ -21,7 +21,7 @@
 ### 目前檔案
 
 * [checklist_of_inheritedglyphs-1.33.pdf](checklist_of_inheritedglyphs-1.33.pdf)
-* 版本：1.32
+* 版本：1.33
 * 日期：2019年11月9日
 
 ### 主要貢獻者
@@ -75,7 +75,7 @@
 ### 目前檔案
 
 * [checklist_of_inheritedglyphs_stroke-1.24.pdf](checklist_of_inheritedglyphs_stroke-1.24.pdf)
-* 版本：1.23
+* 版本：1.24
 * 日期：2019年11月9日
 
 ### 主要貢獻者
