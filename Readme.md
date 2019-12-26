@@ -20,7 +20,7 @@
 
 ### 目前檔案
 
-* [checklist_of_inheritedglyphs-1.32.pdf](checklist_of_inheritedglyphs-1.32.pdf)
+* [checklist_of_inheritedglyphs-1.33.pdf](checklist_of_inheritedglyphs-1.33.pdf)
 * 版本：1.32
 * 日期：2019年11月9日
 
@@ -34,7 +34,7 @@
 
 ### 授權條款
 
-* 本作品以[共享創意-署名 4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
+* 本作品以[共享創意-署名4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
 
 ## 傳承字形推薦形體表
 
@@ -60,7 +60,7 @@
 
 ### 授權條款
 
-* 本作品以[共享創意-署名 4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
+* 本作品以[共享創意-署名4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
 
 ## 傳承字形筆畫表
 
@@ -74,7 +74,7 @@
 
 ### 目前檔案
 
-* [checklist_of_inheritedglyphs_stroke-1.23.pdf](checklist_of_inheritedglyphs_stroke-1.23.pdf)
+* [checklist_of_inheritedglyphs_stroke-1.24.pdf](checklist_of_inheritedglyphs_stroke-1.24.pdf)
 * 版本：1.23
 * 日期：2019年11月9日
 
@@ -86,4 +86,4 @@
 
 ### 授權條款
 
-* 本作品以[共享創意-署名 4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
+* 本作品以[共享創意-署名4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
