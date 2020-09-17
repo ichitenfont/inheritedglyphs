@@ -10,7 +10,7 @@
 
 ## 傳承字形推薦形體表
 
-檔案命名爲「table_of_recom_inherited_glyphs-(Version).pdf」。
+目前檔案命名爲「table_of_recom_inherited_glyphs-(Version).pdf」，舊版本的命名爲「checklist_of_inheritedglyphs_recom-(Version).pdf」。
 
 ## 傳承字形筆畫表
 
