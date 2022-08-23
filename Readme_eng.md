@@ -82,7 +82,7 @@ If there are any issues or errors within this list, please do not hesitate to po
 
 * Produced by: I.Font Project Editorial Department
 * Editor-in-Chief: [內木一郎](https://github.com/SyaoranHinata)
-* Editoral assistants: [陳輝恒](https://github.com/hfhchan)、[李爾樅](https://github.com/Zonz-Ly)、鍾啟堯、[佟藍歌](https://github.com/aikahiiragi)
+* Editorial assistants: [陳輝恒](https://github.com/hfhchan)、[李爾樅](https://github.com/Zonz-Ly)、鍾啟堯、[佟藍歌](https://github.com/aikahiiragi)
 
 ### Licence
 
