@@ -1,5 +1,5 @@
 # Inherited Glyph Standardization Documents
-
+[中文](Readme.md)
 ## Description
 
 In both mainland China and Taiwan, the printed forms of Chinese characters have been standardized to align with handwritten ones. These standardized forms are commonly referred to as “New Character Glyphs” (新字形), and are used for both simplified and traditional characters. In mainland China, the first New Character Glyph standard dates back to the *List of Printed Common Characters* (印刷通用漢字字形表) published in 1965. Separately in Taiwan, the *List of Common Standard National Characters* (常用國字標準字體表) was published in 1982. These standards have been criticized for inhibiting the beauty of Chinese type by “treating handwriting as print’s mother,” and forcibly imposing upon established Chinese type conventions.
