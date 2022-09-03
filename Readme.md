@@ -34,7 +34,7 @@
 
 ### 授權條款
 
-* 本作品以[共享創意-署名4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
+* 本作品以[共享創意-署名4.0授權協議](https://creativecommons.org/licenses/by/4.0/)授權。
 
 ## 傳承字形推薦形體表
 
@@ -60,7 +60,7 @@
 
 ### 授權條款
 
-* 本作品以[共享創意-署名4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
+* 本作品以[共享創意-署名4.0授權協議](https://creativecommons.org/licenses/by/4.0/)授權。
 
 ## 傳承字形筆畫表
 
@@ -86,4 +86,4 @@
 
 ### 授權條款
 
-* 本作品以[共享創意-署名4.0授權條款](https://creativecommons.org/licenses/by/4.0/)授權。
+* 本作品以[共享創意-署名4.0授權協議](https://creativecommons.org/licenses/by/4.0/)授權。
