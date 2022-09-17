@@ -20,9 +20,9 @@ Because Inherited components are often merged within New Character Glyph standar
 
 ### Latest File
 
-* [component_of_recom_inherited_glyphs-1.35.pdf](component_of_recom_inherited_glyphs-1.35.pdf)
-* Version: 1.35
-* Date: 2020/09/17
+* [component_of_recom_inherited_glyphs-1.36.pdf](component_of_recom_inherited_glyphs-1.36.pdf)
+* Version: 1.36
+* Date: 2022/09/17
 
 ### Main Contributors
 
@@ -46,9 +46,12 @@ The *Table of Recommended Inherited Glyphs* completely covers Big5’s range of 
 
 ### Latest File
 
-* [table_of_recom_inherited_glyphs-1.03.pdf](table_of_recom_inherited_glyphs-1.03.pdf)
-* Version: 1.03
-* Date: 2020/09/17
+* [All tables: table_of_recom_inherited_glyphs-1.04.pdf](table_of_recom_inherited_glyphs-1.04.pdf)
+  * [Table 1: table_of_recom_inherited_glyphs-1.04_a.pdf](table_of_recom_inherited_glyphs-1.04_a.pdf)
+  * [Table 2: table_of_recom_inherited_glyphs-1.04_b.pdf](table_of_recom_inherited_glyphs-1.04_b.pdf)
+  * [Table 3: table_of_recom_inherited_glyphs-1.04_c.pdf](table_of_recom_inherited_glyphs-1.04_c.pdf)
+* Version: 1.04
+* Date: 2022/09/17
 
 ### Main Contributors
 
@@ -74,9 +77,9 @@ If there are any issues or errors within this list, please do not hesitate to po
 
 ### Latest File
 
-* [stroke_of_inherited_glyphs-1.26.pdf](stroke_of_inherited_glyphs-1.26.pdf)
-* Version: 1.26
-* Date: 2020/08/17
+* [stroke_of_inherited_glyphs-1.27.pdf](stroke_of_inherited_glyphs-1.27.pdf)
+* Version: 1.27
+* Date: 2022/09/17
 
 ### Main Contributors
 
