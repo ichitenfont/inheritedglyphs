@@ -30,7 +30,7 @@
 * 主編撰：[內木一郎](https://github.com/SyaoranHinata)
 * 聯合編撰：[陳輝恒](https://github.com/hfhchan)、[李爾樅](https://github.com/Zonz-Ly)、鍾啟堯
 * 編務協助：陳志泓、[佟藍歌](https://github.com/aikahiiragi)、伍梓豪
-* 意見提供：譚樊馬克、[夜煞之樂](NightFurySL2001)
+* 意見提供：譚樊馬克、[夜煞之樂](https://github.com/NightFurySL2001)
 * 其他協助：李任之、[Extc](https://github.com/extc)、陳柏逸、蓋艾倫
 
 ### 授權條款
@@ -58,7 +58,7 @@
 
 * 製作：I.字坊編輯部
 * 主編撰：[內木一郎](https://github.com/SyaoranHinata)
-* 字表製作：夜煞之樂、[陳輝恒](https://github.com/hfhchan)
+* 字表製作：[夜煞之樂](https://github.com/NightFurySL2001)、[陳輝恒](https://github.com/hfhchan)
 * 聯合編撰：[陳輝恒](https://github.com/hfhchan)、[李爾樅](https://github.com/Zonz-Ly)、鍾啟堯
 * 編務協助：陳志泓、[佟藍歌](https://github.com/aikahiiragi)、伍梓豪
 
