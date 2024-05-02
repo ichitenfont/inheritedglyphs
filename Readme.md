@@ -20,9 +20,9 @@
 
 ### 目前檔案
 
-* [component_of_recom_inherited_glyphs-1.36.pdf](component_of_recom_inherited_glyphs-1.36.pdf)
-* 版本：1.36
-* 日期：2022年9月17日
+* [component_of_recom_inherited_glyphs-1.36.pdf](component_of_recom_inherited_glyphs-1.37.pdf)
+* 版本：1.37
+* 日期：2024年5月2日
 
 ### 主要貢獻者
 
